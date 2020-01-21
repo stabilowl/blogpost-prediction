@@ -1,7 +1,0 @@
-Baseline probability of popular post:0.121228314598
-Probability of popular post published on weekdays only:0.12679156908665104
-Probability of popular post with 4500 - 6500 words only:0.212113301136
-Probability of popular post with 20 top keywords:0.355562480524
-Number of posts with all of the above:697
-Number of posts with all of the above that is popular:328
-Probability of popular post if all of above satisfied:0.470588235294
