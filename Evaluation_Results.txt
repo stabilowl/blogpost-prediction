@@ -1,0 +1,39 @@
+-----------------------------------------------
+Blogpost Prediction Test Results - Model GBC Basic:
+AUC score is 0.965408945298
+True Positives: 112
+False Negative: 18
+False Positive: 444
+True Negative: 5247
+Comments Captured by randomly selecting 50 from positive predictions: 3274.0
+Comments Captured by ranking top 50 positive probabilities: 12661.0
+Comments Captured by randomly selecting 50 posts: 114.0
+Maximum possible comments captured if top 50 post is known prior:19008.0
+-----------------------------------------------
+
+-----------------------------------------------
+Blogpost Prediction Test Results - Model GBC + RF + kNN:
+AUC score is 0.957410486193
+True Positives: 83
+False Negative: 47
+False Positive: 160
+True Negative: 5531
+Comments Captured by randomly selecting 50 from positive predictions: 6153.0
+Comments Captured by ranking top 50 positive probabilities: 10935.0
+Comments Captured by randomly selecting 50 posts: 339.0
+Maximum possible comments captured if top 50 post is known prior:19008.0
+-----------------------------------------------
+
+-----------------------------------------------
+Blogpost Prediction Test Results - Model GBC Resampled:
+AUC score is 0.965698876769
+True Positives: 109
+False Negative: 21
+False Positive: 363
+True Negative: 5328
+Comments Captured by randomly selecting 50 from positive predictions: 6413.0
+Comments Captured by ranking top 50 positive probabilities: 12310.0
+Comments Captured by randomly selecting 50 posts: 1212.0
+Maximum possible comments captured if top 50 post is known prior:19008.0
+-----------------------------------------------
+

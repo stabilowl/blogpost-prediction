@@ -1,0 +1,73 @@
+--------------------------------------
+Evaulation Results - Model 1 
+Top Single Post (Random): 167.0 
+Top Single Post (Random from Positive): 2336.0 
+Top Single Post (Prob Rank from Positive): 6597.0 
+Top Single Post (A Priori result): 11935.0 
+Top Five Post (Random): 2177.0 
+Top Five Post (Random from Positive): 9863.0 
+Top Five Post (Prob Rank from Positive): 18132.0 
+Top Five Post (A Priori result): 23395.0 
+All Positive Post (Random): 3610.0 
+All Positive Post (Random from Positive): 23636.0 
+All Positive Post (Prob Rank from Positive): 23636.0 
+All Positive Post (A Priori result): 27897.0 
+Precision Post (Random): 1.0 
+Precision Post (Random from Positive): 13.0 
+Precision Post (Prob Rank from Positive): 45.0 
+Precision Post (A Priori result): 104.905660377 
+--------------------------------------
+--------------------------------------
+Evaulation Results - Model 2 
+Top Single Post (Random): 334.0 
+Top Single Post (Random from Positive): 5985.0 
+Top Single Post (Prob Rank from Positive): 6642.0 
+Top Single Post (A Priori result): 11935.0 
+Top Five Post (Random): 1019.0 
+Top Five Post (Random from Positive): 14150.0 
+Top Five Post (Prob Rank from Positive): 16082.0 
+Top Five Post (A Priori result): 22254.0 
+All Positive Post (Random): 1092.0 
+All Positive Post (Random from Positive): 17840.0 
+All Positive Post (Prob Rank from Positive): 17840.0 
+All Positive Post (A Priori result): 23715.0 
+Precision Post (Random): 1.0 
+Precision Post (Random from Positive): 23.0 
+Precision Post (Prob Rank from Positive): 39.0 
+Precision Post (A Priori result): 82.3064516129 
+--------------------------------------
+--------------------------------------
+Evaulation Results - Model 3 
+Top Single Post (Random): 440.0 
+Top Single Post (Random from Positive): 2253.0 
+Top Single Post (Prob Rank from Positive): 6496.0 
+Top Single Post (A Priori result): 11935.0 
+Top Five Post (Random): 753.0 
+Top Five Post (Random from Positive): 11463.0 
+Top Five Post (Prob Rank from Positive): 18032.0 
+Top Five Post (A Priori result): 23374.0 
+All Positive Post (Random): 2822.0 
+All Positive Post (Random from Positive): 22798.0 
+All Positive Post (Prob Rank from Positive): 22798.0 
+All Positive Post (A Priori result): 27257.0 
+Precision Post (Random): 2.0 
+Precision Post (Random from Positive): 22.0 
+Precision Post (Prob Rank from Positive): 39.0 
+Precision Post (A Priori result): 100.121212121 
+--------------------------------------
+--------------------------------------
+Evaulation Results - (Regression) Model 1 
+Top Single Post (Rank from Positive): 7533.0 
+Top Single Post (A Priori result): 11935.0 
+Top Five Post (Rank from Positive): 13225.0 
+Top Five Post (A Priori result): 19220.0 
+All Positive Post (Rank from Positive): 13290.0 
+All Positive Post (A Priori result): 19372.0 
+Precision Post (Rank from Positive): 29 
+Precision Post (A Priori result): 62.5 
+--------------------------------------
+Average Random Posts: 
+Top One: 313.666666667
+Top five: 1316.33333333
+Top all: 2508.0
+Top prec: 1.33333333333
